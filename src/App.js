@@ -1,10 +1,9 @@
 import React from 'react'
-import { Main } from './components/Main/Main';
-
+import {Thanks} from "../src/pages/Thanks/Thanks.jsx"
 function App() {
   return (
     <div className="App">
-  <Main/>
+      <Thanks/>
       
     </div>
   );
