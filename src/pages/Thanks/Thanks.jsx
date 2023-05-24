@@ -4,6 +4,7 @@ import sun from "../../assets/sun.jpg"
 
 export function Thanks() {
     return (
+        
         <div className='Lucky'>
             <div className="section1">
                 <div className="thanks_card">
@@ -24,7 +25,7 @@ export function Thanks() {
 
                 <h1>Payment Confirmed</h1>
 
-                <a href="#" className='a1'>ORDER #2039</a>
+                <a href="ORDER #2039" className='a1'>ORDER #2039</a>
 
                 </div>
                 <div className='Span'>
@@ -33,7 +34,7 @@ export function Thanks() {
 
                 <button>Back to shopping</button>
 
-                <a href="#" className='a2'>Print receipt</a>
+                <a href="Print" className='a2'>Print receipt</a>
                 </div>
             </div>
             <div className="section2">
