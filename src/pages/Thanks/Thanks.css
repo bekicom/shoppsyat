@@ -1,0 +1,207 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Section1 */
+
+.Lucky {
+    width: 1440px;
+    height: 820px;
+    display: flex;
+}
+
+.section1 {
+    width: 735px;
+    height: 820px;
+    background-color: #fff;
+}
+
+.thanks_card {
+    padding-top: 151px;
+    padding-bottom: 284px;
+    padding-left: 165px;
+    padding-right: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+.section1 svg {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    left: 385px;
+    bottom: 590px;
+}
+
+.section1 h1 {
+    width: 349px;
+    height: 38px;
+}
+
+.section1 a.a1 {
+    text-decoration: none;
+    width: 540px;
+    height: 30px;
+    padding-left: 90px;
+    font-family: 'Helvetica';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 16px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    color: #56B280;
+}
+
+.dont {
+    width: 540px;
+    height: 68px;
+    padding-left: 135px;
+}
+
+.Span {
+    width: 500px;
+    height: 51px;
+    padding-left: 130px;
+    padding-bottom: 40px;
+    padding-top: 16px;
+}
+
+.section1 button {
+    position: absolute;
+    width: 161px;
+    height: 24px;
+    top: 350px;
+    left: 311px;
+    padding: 8px 70px;
+    gap: 10px;
+    background: #56B280;
+    border-radius: 4px;
+    width: 249px;
+    height: 40px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.section1 a.a2 {
+    position: absolute;
+    width: 160px;
+    height: 26px;
+    left: 355px;
+    top: 420px;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: -0.9px;
+    text-decoration-line: underline;
+
+    color: #56B280;
+}
+
+/* Section */
+
+.section2 {
+    width: 705px;
+    height: 820px;
+    background-color: #F2F2F2;
+}
+
+.top {
+    position: absolute;
+    width: 475px;
+    height: 136px;
+    left: 800px;
+    top: 55px;
+    display: flex;
+    align-items: center;
+}
+
+.top .one svg {
+    position: absolute;
+    width: 22px;
+    height: 22px;
+    left: 200px;
+    top: 1px;
+    z-index: 1;
+}
+
+.top .drink img {
+    position: absolute;
+    width: 160px;
+    height: 130px;
+    left: 50px;
+    top: 10px;
+    z-index: 0;
+}
+
+.top .right {
+    width: 500px;
+    height: 96px;
+    padding-left: 285px;
+    display: flex;
+    flex-direction: column;
+}
+
+.top .right p{
+width: 255px;
+height: 37px;
+
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 58px;
+/* or 360% */
+
+display: flex;
+align-items: center;
+letter-spacing: -0.9px;
+
+/* black */
+
+color: #272727;
+
+}
+
+.top .right b{
+    width: 255px;
+    height: 59px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 21px;
+    line-height: 58px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.9px;
+    color: green;
+    font-size: larger;
+}
+
+.bottom {
+    position: absolute;
+    width: 411px;
+    height: 26px;
+    left: 800px;
+    top: 389px;
+
+
+
+    /* price */
+
+
+    position: absolute;
+    width: 411px;
+    height: 139px;
+    left: 800px;
+    top: 351px;
+
+}

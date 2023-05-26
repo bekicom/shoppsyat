@@ -1,12 +1,21 @@
 import React from 'react'
-import { Main } from './components/Main/Main';
+
 
 function App() {
   return (
+
     <div className="App">
+<<<<<<< HEAD
   <Main/>
     </div>
   );
+=======
+      
+      </div>
+
+  )
+
+>>>>>>> 072f6367fb97400bbb5531a4874b2970cd0660d4
 }
 
-export default App;
+export default App
