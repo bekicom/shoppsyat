@@ -5,15 +5,7 @@ function Shipping() {
     return (
         <div>
             <div className="xasanboy">
-                {/* <div className="xa">
-                    <p>Cart</p>
-                    <button>></button>
-                    <span>Details</span>
-                    <button className='jilt'>></button>
-                    <h1>Shipping</h1>
-                    <button className='ded'>></button>
-                    <h2>Payment</h2>
-                </div> */}
+               
                 <div className="lada">
                     <p>Contact</p>
                     <span>joe.spagnuolo@uxbly.com</span>
